@@ -3,5 +3,20 @@ h1{
     font-family: 'Luckiest Guy', cursive;
     -webkit-text-stroke: 3.5px #003a70;
     
-    font-size: 2rem;
+    font-size: 5rem;
+}
+h2{ margin-top: 10px;
+    font-family: 'Luckiest Guy', cursive;
+    -webkit-text-stroke: 3.5px #003a70;
+    font-size: 4rem;
+   
+}
+h3{
+    margin-left: 5px;
+    font-family: 'Luckiest Guy', cursive;
+    -webkit-text-stroke: 1px #003a70;
+}
+.card{
+    margin: 10px;
+    
 }
