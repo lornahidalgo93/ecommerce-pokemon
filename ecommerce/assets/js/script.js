@@ -1,4 +1,7 @@
 let contador= 0;
-const agregarProducto=(boton)=>{
+
+function agregarProducto(){
     contador++;
+    
+   $("#pokebolas").text(contador);
 }
